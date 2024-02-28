@@ -1,3 +1,4 @@
+/*
 package finalProgram;
 
 public class finalClass1 extends finalClassEx {
@@ -8,3 +9,5 @@ public class finalClass1 extends finalClassEx {
 	}
 
 }
+
+*/

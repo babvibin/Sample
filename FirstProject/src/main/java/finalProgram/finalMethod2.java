@@ -1,3 +1,5 @@
+/*
+
 package finalProgram;
 
 public class finalMethod2 extends finalMethod1 {
@@ -12,3 +14,6 @@ public class finalMethod2 extends finalMethod1 {
 	}
 
 }
+
+
+*/
