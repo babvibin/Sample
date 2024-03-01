@@ -1,6 +1,32 @@
 package exception;
 
 public class CustomeExceptionEx {
+	public void display(int age) throws AgeException
+	{
+		if(age<18)
+		{
+			throw new AgeException("Not Eligible");
+		}
+		else
+		{
+			System.out.println("Eligible");
+		}
+	}
+
+	public static void main(String[] args) throws AgeException {
+		// TODO Auto-generated method stub
+		CustomeExceptionEx obj=new CustomeExceptionEx();
+		obj.display(15);
+
+	}
+
+}
+
+/*
+
+package exception;
+
+public class CustomeExceptionEx {
 	public void display(int age)
 	{
 		if(age<18)
@@ -21,3 +47,5 @@ public class CustomeExceptionEx {
 	}
 
 }
+
+*/
