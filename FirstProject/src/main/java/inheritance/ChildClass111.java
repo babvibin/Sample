@@ -13,7 +13,6 @@ public class ChildClass111 extends ChildClass11 {
 		obj.display2();
 		obj.display3();
 		
-
 	}
 
 }

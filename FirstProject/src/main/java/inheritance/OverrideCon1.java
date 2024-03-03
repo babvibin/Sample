@@ -11,6 +11,7 @@ public class OverrideCon1 extends OverrideCon {
 		// TODO Auto-generated method stub
 		OverrideCon1 obj=new OverrideCon1();
 		
+		//OverrideCon obj1=new OverrideCon();
 
 	}
 

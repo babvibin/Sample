@@ -8,8 +8,7 @@ public class ThrowSample {
 		{
 			throw new ArithmeticException("Not Eligible");	
 			
-			//throw new NullPointerException("TEST");
-			
+			//throw new NullPointerException("TEST");			
 		}
 		else
 		{
