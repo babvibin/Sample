@@ -14,6 +14,7 @@ public class Sample1 implements Sample {
 	public void display() {
 		// TODO Auto-generated method stub
 		System.out.println(" Test");
+		
 	}
 
 }
