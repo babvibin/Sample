@@ -14,7 +14,8 @@ public class List2 {
 			obj.add("Green");
 			System.out.println(obj);
 			
-			obj.set(1, "Yellow");
+			obj.set(1, "Yellow");	
+			
 			System.out.println(obj);
 		}
 
