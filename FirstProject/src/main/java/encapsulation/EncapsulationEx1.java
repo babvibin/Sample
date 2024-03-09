@@ -11,4 +11,5 @@ public class EncapsulationEx1 {
 			System.out.println(name);
 		}
 
+
 }
