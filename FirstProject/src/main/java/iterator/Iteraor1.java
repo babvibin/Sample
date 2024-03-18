@@ -12,6 +12,8 @@ public class Iteraor1 {
 		obj.add("Yellow");
 		obj.add("Blue");
 		
+		System.out.println(obj);
+		
 		Iterator<String> it=obj.iterator();
 		while(it.hasNext())
 		{

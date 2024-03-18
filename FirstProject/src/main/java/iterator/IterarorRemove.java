@@ -12,6 +12,8 @@ public class IterarorRemove {
 		obj.add("B");
 		obj.add("C");
 		
+		System.out.println(obj);
+		
 		Iterator<String> it=obj.iterator();
 		while(it.hasNext())
 		{

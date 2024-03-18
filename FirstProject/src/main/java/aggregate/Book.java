@@ -7,7 +7,7 @@ public class Book {
 	public Book(String name,int year)
 	{
 		this.name=name;
-		this.year=year;
+		this.year=year;		
 	}
 
 }
